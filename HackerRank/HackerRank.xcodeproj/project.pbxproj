@@ -12,13 +12,19 @@
 		822BAF3B2446376900863E35 /* SpecialStringAgain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822BAF3A2446376900863E35 /* SpecialStringAgain.swift */; };
 		822BAF462448E1B600863E35 /* MinimumAbsoluteDifferenceInArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822BAF452448E1B600863E35 /* MinimumAbsoluteDifferenceInArray.swift */; };
 		82363306244A394C00EC74A7 /* LuckBalance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82363305244A394C00EC74A7 /* LuckBalance.swift */; };
+		823822BA262C60880078D3DD /* PowerSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 823822B9262C60880078D3DD /* PowerSum.swift */; };
+		823822BE262C68BE0078D3DD /* Fibonacci.swift in Sources */ = {isa = PBXBuildFile; fileRef = 823822BD262C68BE0078D3DD /* Fibonacci.swift */; };
+		824F19C3264EC1A400B9A2CC /* ComputingGCD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 824F19C1264EC1A400B9A2CC /* ComputingGCD.swift */; };
+		824F19C62651683C00B9A2CC /* PascalsTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 824F19C52651683C00B9A2CC /* PascalsTriangle.swift */; };
 		8260357B2421440E001E3E9F /* CountTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8260357A2421440E001E3E9F /* CountTriplets.swift */; };
 		8279A934245756240000B556 /* InsertNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8279A933245756240000B556 /* InsertNode.swift */; };
 		8279A93A245D87790000B556 /* SortedInsert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8279A939245D87790000B556 /* SortedInsert.swift */; };
 		8279A93C245D8E3C0000B556 /* ReverseList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8279A93B245D8E3C0000B556 /* ReverseList.swift */; };
+		82A152E026232578005330FC /* Knapsack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A152DF26232578005330FC /* Knapsack.swift */; };
 		82A4DA0E24229807008CA292 /* BubbleSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A4DA0D24229807008CA292 /* BubbleSort.swift */; };
 		82A4DA1024229A0F008CA292 /* MarkAndToys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A4DA0F24229A0F008CA292 /* MarkAndToys.swift */; };
 		82A4DA122422A393008CA292 /* MakingAnagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A4DA112422A393008CA292 /* MakingAnagrams.swift */; };
+		82C22638295CC823003B23FF /* StockMaximize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82C22637295CC823003B23FF /* StockMaximize.swift */; };
 		82C5FF122419769A00FF7095 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82C5FF112419769A00FF7095 /* AppDelegate.swift */; };
 		82C5FF142419769A00FF7095 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82C5FF132419769A00FF7095 /* ViewController.swift */; };
 		82C5FF16241976A000FF7095 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82C5FF15241976A000FF7095 /* Assets.xcassets */; };
@@ -53,13 +59,19 @@
 		822BAF3A2446376900863E35 /* SpecialStringAgain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialStringAgain.swift; sourceTree = "<group>"; };
 		822BAF452448E1B600863E35 /* MinimumAbsoluteDifferenceInArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumAbsoluteDifferenceInArray.swift; sourceTree = "<group>"; };
 		82363305244A394C00EC74A7 /* LuckBalance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LuckBalance.swift; sourceTree = "<group>"; };
+		823822B9262C60880078D3DD /* PowerSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerSum.swift; sourceTree = "<group>"; };
+		823822BD262C68BE0078D3DD /* Fibonacci.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fibonacci.swift; sourceTree = "<group>"; };
+		824F19C1264EC1A400B9A2CC /* ComputingGCD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComputingGCD.swift; sourceTree = "<group>"; };
+		824F19C52651683C00B9A2CC /* PascalsTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalsTriangle.swift; sourceTree = "<group>"; };
 		8260357A2421440E001E3E9F /* CountTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountTriplets.swift; sourceTree = "<group>"; };
 		8279A933245756240000B556 /* InsertNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertNode.swift; sourceTree = "<group>"; };
 		8279A939245D87790000B556 /* SortedInsert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortedInsert.swift; sourceTree = "<group>"; };
 		8279A93B245D8E3C0000B556 /* ReverseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseList.swift; sourceTree = "<group>"; };
+		82A152DF26232578005330FC /* Knapsack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Knapsack.swift; sourceTree = "<group>"; };
 		82A4DA0D24229807008CA292 /* BubbleSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BubbleSort.swift; sourceTree = "<group>"; };
 		82A4DA0F24229A0F008CA292 /* MarkAndToys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkAndToys.swift; sourceTree = "<group>"; };
 		82A4DA112422A393008CA292 /* MakingAnagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakingAnagrams.swift; sourceTree = "<group>"; };
+		82C22637295CC823003B23FF /* StockMaximize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockMaximize.swift; sourceTree = "<group>"; };
 		82C5FF0E2419769A00FF7095 /* HackerRank.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackerRank.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		82C5FF112419769A00FF7095 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		82C5FF132419769A00FF7095 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -110,6 +122,15 @@
 			path = "Greedy Algorithms";
 			sourceTree = "<group>";
 		};
+		824F19C0264EC17D00B9A2CC /* Recursion */ = {
+			isa = PBXGroup;
+			children = (
+				824F19C1264EC1A400B9A2CC /* ComputingGCD.swift */,
+				824F19C52651683C00B9A2CC /* PascalsTriangle.swift */,
+			);
+			path = Recursion;
+			sourceTree = "<group>";
+		};
 		8279A932245755590000B556 /* LinkedList */ = {
 			isa = PBXGroup;
 			children = (
@@ -118,6 +139,17 @@
 				8279A93B245D8E3C0000B556 /* ReverseList.swift */,
 			);
 			path = LinkedList;
+			sourceTree = "<group>";
+		};
+		82A152DE26232538005330FC /* Dynamic Programming */ = {
+			isa = PBXGroup;
+			children = (
+				823822B9262C60880078D3DD /* PowerSum.swift */,
+				82A152DF26232578005330FC /* Knapsack.swift */,
+				823822BD262C68BE0078D3DD /* Fibonacci.swift */,
+				82C22637295CC823003B23FF /* StockMaximize.swift */,
+			);
+			path = "Dynamic Programming";
 			sourceTree = "<group>";
 		};
 		82A4DA0C242297EC008CA292 /* Sorting */ = {
@@ -141,6 +173,8 @@
 				82F3DFDF2444D36F00CB415E /* String Manipulation */,
 				822BAF442448E18200863E35 /* Greedy Algorithms */,
 				8279A932245755590000B556 /* LinkedList */,
+				82A152DE26232538005330FC /* Dynamic Programming */,
+				824F19C0264EC17D00B9A2CC /* Recursion */,
 				82C5FF0F2419769A00FF7095 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -257,7 +291,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
-				LastUpgradeCheck = 1140;
+				LastUpgradeCheck = 1420;
 				ORGANIZATIONNAME = Serg;
 				TargetAttributes = {
 					82C5FF0D2419769A00FF7095 = {
@@ -322,19 +356,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				823822BE262C68BE0078D3DD /* Fibonacci.swift in Sources */,
 				8279A93C245D8E3C0000B556 /* ReverseList.swift in Sources */,
 				82E88C37241E214D00A50DBD /* MinimumSwaps2.swift in Sources */,
 				82F3DFE12444D3AE00CB415E /* SherlockAndValidString.swift in Sources */,
+				823822BA262C60880078D3DD /* PowerSum.swift in Sources */,
 				82025FDE2472FAB400A68ACD /* AlternatingCharacters.swift in Sources */,
 				82DCC6C3241EA82D007C3804 /* RansomNote.swift in Sources */,
 				822BAF462448E1B600863E35 /* MinimumAbsoluteDifferenceInArray.swift in Sources */,
 				8260357B2421440E001E3E9F /* CountTriplets.swift in Sources */,
+				824F19C62651683C00B9A2CC /* PascalsTriangle.swift in Sources */,
+				824F19C3264EC1A400B9A2CC /* ComputingGCD.swift in Sources */,
 				82E88C35241C14AB00A50DBD /* NewYearChaos.swift in Sources */,
 				82A4DA1024229A0F008CA292 /* MarkAndToys.swift in Sources */,
 				82C5FF30241976BE00FF7095 /* CountingValleys.swift in Sources */,
 				82DCC720241FC9AD007C3804 /* TwoStrings.swift in Sources */,
 				82E88C29241A87A700A50DBD /* JumpingOnTheClouds.swift in Sources */,
 				82A4DA122422A393008CA292 /* MakingAnagrams.swift in Sources */,
+				82A152E026232578005330FC /* Knapsack.swift in Sources */,
 				82E88C2E241ABDF800A50DBD /* HourglassSum.swift in Sources */,
 				822BAF3B2446376900863E35 /* SpecialStringAgain.swift in Sources */,
 				82363306244A394C00EC74A7 /* LuckBalance.swift in Sources */,
@@ -343,6 +382,7 @@
 				82E88C2B241AB1CD00A50DBD /* RepeatedString.swift in Sources */,
 				8279A934245756240000B556 /* InsertNode.swift in Sources */,
 				8279A93A245D87790000B556 /* SortedInsert.swift in Sources */,
+				82C22638295CC823003B23FF /* StockMaximize.swift in Sources */,
 				82A4DA0E24229807008CA292 /* BubbleSort.swift in Sources */,
 				82025FDC24717A9900A68ACD /* CommonChild.swift in Sources */,
 			);
@@ -396,6 +436,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -403,6 +444,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -456,6 +498,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -463,6 +506,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -488,10 +532,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = HackerRank/HackerRank.entitlements;
-				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = E85N35G3YB;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = T75B68U5S7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = HackerRank/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -509,10 +555,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = HackerRank/HackerRank.entitlements;
-				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = E85N35G3YB;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = T75B68U5S7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = HackerRank/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -530,9 +578,12 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = E85N35G3YB;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = T75B68U5S7;
 				INFOPLIST_FILE = HackerRankTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -552,9 +603,12 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = E85N35G3YB;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = T75B68U5S7;
 				INFOPLIST_FILE = HackerRankTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
